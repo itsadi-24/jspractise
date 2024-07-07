@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsdom": "^24.1.0"
+  }
+}
